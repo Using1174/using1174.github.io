@@ -63,7 +63,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: #fff;
   margin:0 0 20px;
 }
 
@@ -80,11 +80,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#fefefe;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#eaeaea;
 }
 
 a {
@@ -121,7 +121,7 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:#ddd;
   font-size:12px;
 }
 
@@ -246,6 +246,9 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+body{
+  background-color:#29284C;
 }
 
 @media print, screen and (max-width: 960px) {
