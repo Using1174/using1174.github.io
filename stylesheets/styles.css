@@ -250,6 +250,12 @@ footer {
 body{
   background-color:#29284C;
 }
+.view img{
+width: 16px;
+height: 16px;
+margin-right: 8px;
+vertical-align: middle;
+}
 
 @media print, screen and (max-width: 960px) {
 
